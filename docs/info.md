@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Using th switches it will simulate a path starting from the pinto in the 7 segment.
 
 ## How to test
 
-Explain how to use your project
+Start by turning on the first switch, then enable the second and switch and then go on with the next ones.
 
 ## External hardware
 
