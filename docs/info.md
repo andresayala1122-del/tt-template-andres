@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Using th switches it will simulate a path starting from the pinto in the 7 segment.
+Using the switches it will simulate a path starting from the pinto in the 7 segment.
 
 ## How to test
 
